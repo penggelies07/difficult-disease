@@ -1,2 +1,2 @@
-# Difficult-disease
+# difficult-disease
 Some difficulties encountered in the development
